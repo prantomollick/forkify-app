@@ -1,11 +1,12 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Recipe Application",
+  "default": "index.html",
   "browserslist": "> 0.2%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Pranto Mollick",
   "license": "ISC",
