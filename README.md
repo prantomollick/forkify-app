@@ -6,8 +6,8 @@ Using Javascript, css, html
 
 ## Webpage Link of this forkify-App
 
-- [@forkify-APP-html-css-js](https://prantomollick.github.io/mapty-app/)
+- [@forkify-APP-html-css-js](https://forkify-pranto-mollick.netlify.app/)
 
 ## Screenshots
 
-![App Screenshot](forkify-app.png)
+![App Screenshot](forkify-app-screen.jpeg)
