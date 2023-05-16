@@ -133,6 +133,7 @@ const init = function () {
   searchView.addHandlerSearch(controlRecipeSearchResults);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandleUpload(controllerAddRecipe);
+  console.log('welcome Forkify app!');
 };
 
 init();
